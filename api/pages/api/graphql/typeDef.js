@@ -1,13 +1,23 @@
 import { gql } from "apollo-server-micro";
 
 export const typeDefs = gql`
+  type ScallingEntry {
+    scalling: String
+    name: String
+  }
+
+  type AttributeEntry {
+    amount: Int
+    name: String
+  }
+
   type Ammo {
     id: ID!
     name: String
     image: String
     description: String
     type: String
-    attackPower: [String]
+    attackPower: [AttributeEntry]
     passive: String
   }
 
@@ -17,8 +27,8 @@ export const typeDefs = gql`
     image: String
     description: String
     category: String
-    dmgNegation: [String]
-    resistance: [String]
+    dmgNegation: [AttributeEntry]
+    resistance: [AttributeEntry]
     weight: Int
   }
 
@@ -79,7 +89,7 @@ export const typeDefs = gql`
     cost: Int
     slots: Int
     effects: String
-    requires: [String]
+    requires: [AttributeEntry]
   }
 
   type Item {
@@ -112,10 +122,10 @@ export const typeDefs = gql`
     name: String
     image: String
     description: String
-    attack: [String]
-    defence: [String]
-    scalesWith: [String]
-    requiredAttributes: [String]
+    attack: [AttributeEntry]
+    defence: [AttributeEntry]
+    scalesWith: [ScallingEntry]
+    requiredAttributes: [AttributeEntry]
     category: String
     weight: Int
   }
@@ -129,7 +139,7 @@ export const typeDefs = gql`
     cost: Int
     slots: Int
     effects: String
-    requires: [String]
+    requires: [AttributeEntry]
   }
 
   type Spirit {
@@ -155,10 +165,10 @@ export const typeDefs = gql`
     name: String
     image: String
     description: String
-    attack: [String]
-    defence: [String]
-    scalesWith: [String]
-    requiredAttributes: [String]
+    attack: [AttributeEntry]
+    defence: [AttributeEntry]
+    scalesWith: [ScallingEntry]
+    requiredAttributes: [AttributeEntry]
     category: String
     weight: Int
   }

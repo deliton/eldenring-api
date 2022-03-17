@@ -3,7 +3,7 @@ module.exports = {
     return [
       {
         source: '/images/:path*',
-        destination: 'https://res.cloudinary.com/onifex/image/upload/v1646794966/eldenring-api/:path*'
+        destination: 'https://raw.githubusercontent.com/deliton/eldenring-api/main/resources/images/:path*'
       }
     ]
   },
