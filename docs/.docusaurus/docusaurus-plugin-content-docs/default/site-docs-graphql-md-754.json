@@ -1,0 +1,17 @@
+{
+  "unversionedId": "graphql",
+  "id": "graphql",
+  "isDocsHomePage": false,
+  "title": "GraphQL Endpoint",
+  "description": "That's it, we support GraphQL out of the box now. Just go to https://zelda.fanapis.com/api/graphql and use the Apollo GraphQL sandbox. By using GraphQL you have access to all of its schema and resolvers, so it should be easy to explore on your own. Below, we'll see a few examples using the new GraphQL endpoint.",
+  "source": "@site/docs\\graphql.md",
+  "slug": "/graphql",
+  "permalink": "/docs/graphql",
+  "version": "current",
+  "sidebar_label": "GraphQL",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Items Route",
+    "permalink": "/docs/items"
+  }
+}

@@ -6,17 +6,15 @@ function Index() {
   return (
     <div className="container">
       <Head>
-      <link rel="icon" href="/icon.png" />
-        <title>FanAPIs Template</title>
+      <link rel="icon" href="/eldenring-rune-icon.png" />
+        <title>Elden Ring API</title>
         <meta
           name="description"
-          content="API Description here"
+          content="The ultimate open source Elden Ring API"
         />
         <meta
           property="og:image"
-          content={`https://og-image.now.sh/${encodeURI(
-            siteTitle
-          )}.png?theme=light&md=0&fontSize=75px&images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fnextjs-black-logo.svg`}
+          content={`/eldenring-rune-icon.png`}
         />
         <meta name="og:title" content={siteTitle} />
         <meta name="twitter:card" content="summary_large_image" />
@@ -24,10 +22,10 @@ function Index() {
 
       <main className='heroBanner'>
         <div className="container">
-          <img className='apiLogo' src='https://user-images.githubusercontent.com/47995046/155302964-ce7f4d85-3a0f-4410-b803-42282cb1434c.png'/>
+          <img className='apiLogo' src='/eldenring-opensource-logo.png'/>
           <div className='buttons'>
             <a className='myButton'
-              href='https://docs.<project>.fanapis.com/docs'>
+              href='https://docs.eldenring.fanapis.com/docs'>
               Go to Documentation
             </a>
           </div>
@@ -48,8 +46,8 @@ function Index() {
         }
         .heroBanner {
           height: 100vh;
-          // background: url(zelda-background.jpg) no-repeat center center fixed;
-          background: linear-gradient(to right, rgb(236, 0, 140), rgb(252, 103, 103));
+          background: url(elden-ring-bg.webp) no-repeat center center fixed;
+          background-color: linear-gradient(180deg, rgba(36,100,119,1) 0%, rgba(135,143,77,1) 51%, rgba(14,57,57,1) 100%);
           -webkit-background-size: cover;
           -moz-background-size: cover;
           -moz-background-size: cover;

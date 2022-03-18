@@ -1,0 +1,21 @@
+{
+  "unversionedId": "places",
+  "id": "places",
+  "isDocsHomePage": false,
+  "title": "Places Route",
+  "description": "Introduction",
+  "source": "@site/docs\\places.md",
+  "slug": "/places",
+  "permalink": "/docs/places",
+  "version": "current",
+  "sidebar_label": "Places",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Dungeons Route",
+    "permalink": "/docs/dungeons"
+  },
+  "next": {
+    "title": "Items Route",
+    "permalink": "/docs/items"
+  }
+}

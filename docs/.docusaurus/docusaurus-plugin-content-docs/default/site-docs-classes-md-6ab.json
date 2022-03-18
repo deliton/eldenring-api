@@ -1,0 +1,21 @@
+{
+  "unversionedId": "classes",
+  "id": "classes",
+  "isDocsHomePage": false,
+  "title": "Classes Route",
+  "description": "Introduction",
+  "source": "@site/docs/classes.md",
+  "slug": "/classes",
+  "permalink": "/docs/classes",
+  "version": "current",
+  "sidebar_label": "Classes",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Bosses Route",
+    "permalink": "/docs/bosses"
+  },
+  "next": {
+    "title": "Creatures Route",
+    "permalink": "/docs/creatures"
+  }
+}

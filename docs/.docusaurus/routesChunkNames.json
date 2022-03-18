@@ -1,0 +1,144 @@
+{
+  "/-deb": {
+    "component": "component---site-src-pages-index-jsc-4-f-f99",
+    "config": "config---5-e-9-4f3"
+  },
+  "/__docusaurus/debug-3d6": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/__docusaurus/debug/config-914": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/__docusaurus/debug/content-c28": {
+    "component": "component---theme-debug-contentba-8-ce7",
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-3cf": {
+    "component": "component---theme-debug-global-dataede-0fa"
+  },
+  "/__docusaurus/debug/metadata-31b": {
+    "component": "component---theme-debug-site-metadata-68-e-3d4"
+  },
+  "/__docusaurus/debug/registry-0da": {
+    "component": "component---theme-debug-registry-679-501"
+  },
+  "/__docusaurus/debug/routes-244": {
+    "component": "component---theme-debug-routes-946-699"
+  },
+  "/blog-d90": {
+    "component": "component---theme-blog-list-pagea-6-a-7ba",
+    "items": [
+      {
+        "content": "content---blog-91-b-97d"
+      }
+    ],
+    "metadata": "metadata---blogb-2-b-df1"
+  },
+  "/blog/tags-a25": {
+    "component": "component---theme-blog-tags-list-page-01-a-d0b",
+    "tags": "tags---blog-tagsa-70-da2"
+  },
+  "/blog/tags/api-6a1": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "items": [
+      {
+        "content": "content---blog-91-b-97d"
+      }
+    ],
+    "metadata": "metadata---blog-tags-api-6-d-4-e63"
+  },
+  "/blog/tags/documentation-ba8": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "items": [
+      {
+        "content": "content---blog-91-b-97d"
+      }
+    ],
+    "metadata": "metadata---blog-tags-documentation-38-f-bce"
+  },
+  "/blog/tags/release-fbc": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "items": [
+      {
+        "content": "content---blog-91-b-97d"
+      }
+    ],
+    "metadata": "metadata---blog-tags-release-83-d-f00"
+  },
+  "/blog/v1-release-581": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "content": "content---blog-v-1-releasefea-e25"
+  },
+  "/docs-b09": {
+    "component": "component---theme-doc-page-1-be-9be",
+    "versionMetadata": "versionMetadata---docs-935-398"
+  },
+  "/docs/-f50": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-98-c-475"
+  },
+  "/docs/ammos-d1c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-ammos-80-b-3d2"
+  },
+  "/docs/armors-64f": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-armors-138-8a2"
+  },
+  "/docs/ashesOfWar-645": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-ashes-of-war-703-e10"
+  },
+  "/docs/bosses-e65": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-bosses-1-f-9-3cd"
+  },
+  "/docs/classes-80c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-classes-6-ab-bc0"
+  },
+  "/docs/creatures-d60": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-creatures-08-f-0e1"
+  },
+  "/docs/graphql-1cc": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-graphql-504-47b"
+  },
+  "/docs/incantations-c0f": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-incantationsec-1-017"
+  },
+  "/docs/items-7b5": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-itemscdb-f33"
+  },
+  "/docs/locations-b09": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-locationsa-2-e-a1a"
+  },
+  "/docs/npcs-ff7": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-npcs-6-bb-5bf"
+  },
+  "/docs/shields-a02": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-shields-032-eed"
+  },
+  "/docs/sorceries-c20": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-sorceries-260-349"
+  },
+  "/docs/spirits-8d6": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-spirits-22-f-c25"
+  },
+  "/docs/talismans-5fa": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-talismans-0-c-2-1bc"
+  },
+  "/docs/weapons-13a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-weapons-7-ca-d1e"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "unversionedId": "spirits",
+  "id": "spirits",
+  "isDocsHomePage": false,
+  "title": "Spirits Route",
+  "description": "Introduction",
+  "source": "@site/docs/spirits.md",
+  "slug": "/spirits",
+  "permalink": "/docs/spirits",
+  "version": "current",
+  "sidebar_label": "Spirits",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Sorceries Route",
+    "permalink": "/docs/sorceries"
+  },
+  "next": {
+    "title": "Talismans Route",
+    "permalink": "/docs/talismans"
+  }
+}

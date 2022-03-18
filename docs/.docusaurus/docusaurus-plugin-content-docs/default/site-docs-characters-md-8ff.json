@@ -1,0 +1,21 @@
+{
+  "unversionedId": "characters",
+  "id": "characters",
+  "isDocsHomePage": false,
+  "title": "Characters Route",
+  "description": "Introduction",
+  "source": "@site/docs/characters.md",
+  "slug": "/characters",
+  "permalink": "/docs/characters",
+  "version": "current",
+  "sidebar_label": "Characters",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Staff Route",
+    "permalink": "/docs/staff"
+  },
+  "next": {
+    "title": "Monsters Route",
+    "permalink": "/docs/monsters"
+  }
+}

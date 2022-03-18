@@ -1,0 +1,21 @@
+{
+  "unversionedId": "shields",
+  "id": "shields",
+  "isDocsHomePage": false,
+  "title": "Shields Route",
+  "description": "Introduction",
+  "source": "@site/docs/shields.md",
+  "slug": "/shields",
+  "permalink": "/docs/shields",
+  "version": "current",
+  "sidebar_label": "Shields",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Npcs Route",
+    "permalink": "/docs/npcs"
+  },
+  "next": {
+    "title": "Sorceries Route",
+    "permalink": "/docs/sorceries"
+  }
+}

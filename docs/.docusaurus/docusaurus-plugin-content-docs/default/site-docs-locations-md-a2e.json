@@ -1,0 +1,21 @@
+{
+  "unversionedId": "locations",
+  "id": "locations",
+  "isDocsHomePage": false,
+  "title": "Locations Route",
+  "description": "Introduction",
+  "source": "@site/docs/locations.md",
+  "slug": "/locations",
+  "permalink": "/docs/locations",
+  "version": "current",
+  "sidebar_label": "Locations",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Items Route",
+    "permalink": "/docs/items"
+  },
+  "next": {
+    "title": "Npcs Route",
+    "permalink": "/docs/npcs"
+  }
+}

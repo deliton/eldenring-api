@@ -1,0 +1,21 @@
+{
+  "unversionedId": "talismans",
+  "id": "talismans",
+  "isDocsHomePage": false,
+  "title": "Talismans Route",
+  "description": "Introduction",
+  "source": "@site/docs/talismans.md",
+  "slug": "/talismans",
+  "permalink": "/docs/talismans",
+  "version": "current",
+  "sidebar_label": "Talismans",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Spirits Route",
+    "permalink": "/docs/spirits"
+  },
+  "next": {
+    "title": "Weapons Route",
+    "permalink": "/docs/weapons"
+  }
+}

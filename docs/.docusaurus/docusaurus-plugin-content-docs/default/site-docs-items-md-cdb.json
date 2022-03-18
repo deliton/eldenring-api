@@ -1,0 +1,21 @@
+{
+  "unversionedId": "items",
+  "id": "items",
+  "isDocsHomePage": false,
+  "title": "Items Route",
+  "description": "Introduction",
+  "source": "@site/docs/items.md",
+  "slug": "/items",
+  "permalink": "/docs/items",
+  "version": "current",
+  "sidebar_label": "Items",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Incantations Route",
+    "permalink": "/docs/incantations"
+  },
+  "next": {
+    "title": "Locations Route",
+    "permalink": "/docs/locations"
+  }
+}

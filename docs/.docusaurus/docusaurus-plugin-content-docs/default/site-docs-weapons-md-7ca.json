@@ -1,0 +1,21 @@
+{
+  "unversionedId": "weapons",
+  "id": "weapons",
+  "isDocsHomePage": false,
+  "title": "Weapons Route",
+  "description": "Introduction",
+  "source": "@site/docs/weapons.md",
+  "slug": "/weapons",
+  "permalink": "/docs/weapons",
+  "version": "current",
+  "sidebar_label": "Weapons",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Talismans Route",
+    "permalink": "/docs/talismans"
+  },
+  "next": {
+    "title": "GraphQL Endpoint",
+    "permalink": "/docs/graphql"
+  }
+}

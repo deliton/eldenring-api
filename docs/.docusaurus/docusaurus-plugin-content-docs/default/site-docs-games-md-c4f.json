@@ -1,0 +1,21 @@
+{
+  "unversionedId": "games",
+  "id": "games",
+  "isDocsHomePage": false,
+  "title": "Games Route",
+  "description": "Introduction",
+  "source": "@site/docs\\games.md",
+  "slug": "/games",
+  "permalink": "/docs/games",
+  "version": "current",
+  "sidebar_label": "Games",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/docs/"
+  },
+  "next": {
+    "title": "Staff Route",
+    "permalink": "/docs/staff"
+  }
+}

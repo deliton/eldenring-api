@@ -1,0 +1,17 @@
+{
+  "unversionedId": "start",
+  "id": "start",
+  "isDocsHomePage": false,
+  "title": "Getting Started",
+  "description": "The Zelda API is a cool open source API that provides information about the greatest game franchise out there: The Legend of Zelda. In this section you will be guided with basics steps on how to properly use this API. This API is open, so it doesn't require an API key to use it. Also, please give us a star on our official github repository and feel free to post issues there.",
+  "source": "@site/docs\\start.md",
+  "slug": "/",
+  "permalink": "/docs/",
+  "version": "current",
+  "sidebar_label": "Getting Started",
+  "sidebar": "someSidebar",
+  "next": {
+    "title": "Games Route",
+    "permalink": "/docs/games"
+  }
+}

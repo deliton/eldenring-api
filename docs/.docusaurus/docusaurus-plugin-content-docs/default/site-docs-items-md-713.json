@@ -1,0 +1,21 @@
+{
+  "unversionedId": "items",
+  "id": "items",
+  "isDocsHomePage": false,
+  "title": "Items Route",
+  "description": "Introduction",
+  "source": "@site/docs\\items.md",
+  "slug": "/items",
+  "permalink": "/docs/items",
+  "version": "current",
+  "sidebar_label": "Items",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Places Route",
+    "permalink": "/docs/places"
+  },
+  "next": {
+    "title": "GraphQL Endpoint",
+    "permalink": "/docs/graphql"
+  }
+}

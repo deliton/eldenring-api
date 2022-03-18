@@ -1,0 +1,27 @@
+{
+  "permalink": "/blog/first-release",
+  "source": "@site/blog\\2020-09-27-alpha-release.md",
+  "description": "I'm proud to announce that our 0.0.2 alpha version of Zelda API is here! Many things still need to be fixed so stay tuned for the upcoming releases.",
+  "date": "2020-09-27T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "release",
+      "permalink": "/blog/tags/release"
+    },
+    {
+      "label": "documentation",
+      "permalink": "/blog/tags/documentation"
+    },
+    {
+      "label": "api",
+      "permalink": "/blog/tags/api"
+    }
+  ],
+  "title": "The first release is here!",
+  "readingTime": 0.14,
+  "truncated": false,
+  "prevItem": {
+    "title": "A new version of Zelda API is up!",
+    "permalink": "/blog/v1-release"
+  }
+}

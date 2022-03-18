@@ -1,0 +1,569 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/docs",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/mnt/c/Users/delit/Documents/codes/deliton/eldenring-api/docs/sidebars.js",
+          "docsDirPath": "/mnt/c/Users/delit/Documents/codes/deliton/eldenring-api/docs/docs",
+          "mainDocId": "start",
+          "sidebars": {
+            "someSidebar": [
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "Info",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "start"
+                  }
+                ]
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "API",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "ammos"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "armors"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "ashesOfWar"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "bosses"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "classes"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "creatures"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "incantations"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "items"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "locations"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "npcs"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "shields"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "sorceries"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "spirits"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "talismans"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "weapons"
+                  }
+                ]
+              },
+              {
+                "collapsed": true,
+                "type": "category",
+                "label": "GraphQL",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "graphql"
+                  }
+                ]
+              }
+            ]
+          },
+          "permalinkToSidebar": {
+            "/docs/ammos": "someSidebar",
+            "/docs/armors": "someSidebar",
+            "/docs/ashesOfWar": "someSidebar",
+            "/docs/bosses": "someSidebar",
+            "/docs/classes": "someSidebar",
+            "/docs/creatures": "someSidebar",
+            "/docs/graphql": "someSidebar",
+            "/docs/incantations": "someSidebar",
+            "/docs/items": "someSidebar",
+            "/docs/locations": "someSidebar",
+            "/docs/npcs": "someSidebar",
+            "/docs/shields": "someSidebar",
+            "/docs/sorceries": "someSidebar",
+            "/docs/spirits": "someSidebar",
+            "/docs/": "someSidebar",
+            "/docs/talismans": "someSidebar",
+            "/docs/weapons": "someSidebar"
+          },
+          "docs": [
+            {
+              "unversionedId": "ammos",
+              "id": "ammos",
+              "isDocsHomePage": false,
+              "title": "Ammos Route",
+              "description": "Introduction",
+              "source": "@site/docs/ammos.md",
+              "slug": "/ammos",
+              "permalink": "/docs/ammos",
+              "version": "current",
+              "sidebar_label": "Ammos",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Getting Started",
+                "permalink": "/docs/"
+              },
+              "next": {
+                "title": "Armors Route",
+                "permalink": "/docs/armors"
+              }
+            },
+            {
+              "unversionedId": "armors",
+              "id": "armors",
+              "isDocsHomePage": false,
+              "title": "Armors Route",
+              "description": "Introduction",
+              "source": "@site/docs/armors.md",
+              "slug": "/armors",
+              "permalink": "/docs/armors",
+              "version": "current",
+              "sidebar_label": "Armors",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Ammos Route",
+                "permalink": "/docs/ammos"
+              },
+              "next": {
+                "title": "Ashes of War Route",
+                "permalink": "/docs/ashesOfWar"
+              }
+            },
+            {
+              "unversionedId": "ashesOfWar",
+              "id": "ashesOfWar",
+              "isDocsHomePage": false,
+              "title": "Ashes of War Route",
+              "description": "Introduction",
+              "source": "@site/docs/ashesOfWar.md",
+              "slug": "/ashesOfWar",
+              "permalink": "/docs/ashesOfWar",
+              "version": "current",
+              "sidebar_label": "Ashes of War",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Armors Route",
+                "permalink": "/docs/armors"
+              },
+              "next": {
+                "title": "Bosses Route",
+                "permalink": "/docs/bosses"
+              }
+            },
+            {
+              "unversionedId": "bosses",
+              "id": "bosses",
+              "isDocsHomePage": false,
+              "title": "Bosses Route",
+              "description": "Introduction",
+              "source": "@site/docs/bosses.md",
+              "slug": "/bosses",
+              "permalink": "/docs/bosses",
+              "version": "current",
+              "sidebar_label": "Bosses",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Ashes of War Route",
+                "permalink": "/docs/ashesOfWar"
+              },
+              "next": {
+                "title": "Classes Route",
+                "permalink": "/docs/classes"
+              }
+            },
+            {
+              "unversionedId": "classes",
+              "id": "classes",
+              "isDocsHomePage": false,
+              "title": "Classes Route",
+              "description": "Introduction",
+              "source": "@site/docs/classes.md",
+              "slug": "/classes",
+              "permalink": "/docs/classes",
+              "version": "current",
+              "sidebar_label": "Classes",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Bosses Route",
+                "permalink": "/docs/bosses"
+              },
+              "next": {
+                "title": "Creatures Route",
+                "permalink": "/docs/creatures"
+              }
+            },
+            {
+              "unversionedId": "creatures",
+              "id": "creatures",
+              "isDocsHomePage": false,
+              "title": "Creatures Route",
+              "description": "Introduction",
+              "source": "@site/docs/creatures.md",
+              "slug": "/creatures",
+              "permalink": "/docs/creatures",
+              "version": "current",
+              "sidebar_label": "Creatures",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Classes Route",
+                "permalink": "/docs/classes"
+              },
+              "next": {
+                "title": "Incantations Route",
+                "permalink": "/docs/incantations"
+              }
+            },
+            {
+              "unversionedId": "graphql",
+              "id": "graphql",
+              "isDocsHomePage": false,
+              "title": "GraphQL Endpoint",
+              "description": "That's it, we support GraphQL out of the box. Just go to https://eldenring.fanapis.com/api/graphql and use the Apollo GraphQL sandbox. By using GraphQL you have access to all of its schema and resolvers, so it should be easy to explore on your own. Below, we'll see a few examples using the new GraphQL endpoint.",
+              "source": "@site/docs/graphql.md",
+              "slug": "/graphql",
+              "permalink": "/docs/graphql",
+              "version": "current",
+              "sidebar_label": "Usage",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Weapons Route",
+                "permalink": "/docs/weapons"
+              }
+            },
+            {
+              "unversionedId": "incantations",
+              "id": "incantations",
+              "isDocsHomePage": false,
+              "title": "Incantations Route",
+              "description": "Introduction",
+              "source": "@site/docs/incantations.md",
+              "slug": "/incantations",
+              "permalink": "/docs/incantations",
+              "version": "current",
+              "sidebar_label": "Incantations",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Creatures Route",
+                "permalink": "/docs/creatures"
+              },
+              "next": {
+                "title": "Items Route",
+                "permalink": "/docs/items"
+              }
+            },
+            {
+              "unversionedId": "items",
+              "id": "items",
+              "isDocsHomePage": false,
+              "title": "Items Route",
+              "description": "Introduction",
+              "source": "@site/docs/items.md",
+              "slug": "/items",
+              "permalink": "/docs/items",
+              "version": "current",
+              "sidebar_label": "Items",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Incantations Route",
+                "permalink": "/docs/incantations"
+              },
+              "next": {
+                "title": "Locations Route",
+                "permalink": "/docs/locations"
+              }
+            },
+            {
+              "unversionedId": "locations",
+              "id": "locations",
+              "isDocsHomePage": false,
+              "title": "Locations Route",
+              "description": "Introduction",
+              "source": "@site/docs/locations.md",
+              "slug": "/locations",
+              "permalink": "/docs/locations",
+              "version": "current",
+              "sidebar_label": "Locations",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Items Route",
+                "permalink": "/docs/items"
+              },
+              "next": {
+                "title": "Npcs Route",
+                "permalink": "/docs/npcs"
+              }
+            },
+            {
+              "unversionedId": "npcs",
+              "id": "npcs",
+              "isDocsHomePage": false,
+              "title": "Npcs Route",
+              "description": "Introduction",
+              "source": "@site/docs/npcs.md",
+              "slug": "/npcs",
+              "permalink": "/docs/npcs",
+              "version": "current",
+              "sidebar_label": "NPCs",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Locations Route",
+                "permalink": "/docs/locations"
+              },
+              "next": {
+                "title": "Shields Route",
+                "permalink": "/docs/shields"
+              }
+            },
+            {
+              "unversionedId": "shields",
+              "id": "shields",
+              "isDocsHomePage": false,
+              "title": "Shields Route",
+              "description": "Introduction",
+              "source": "@site/docs/shields.md",
+              "slug": "/shields",
+              "permalink": "/docs/shields",
+              "version": "current",
+              "sidebar_label": "Shields",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Npcs Route",
+                "permalink": "/docs/npcs"
+              },
+              "next": {
+                "title": "Sorceries Route",
+                "permalink": "/docs/sorceries"
+              }
+            },
+            {
+              "unversionedId": "sorceries",
+              "id": "sorceries",
+              "isDocsHomePage": false,
+              "title": "Sorceries Route",
+              "description": "Introduction",
+              "source": "@site/docs/sorceries.md",
+              "slug": "/sorceries",
+              "permalink": "/docs/sorceries",
+              "version": "current",
+              "sidebar_label": "Sorceries",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Shields Route",
+                "permalink": "/docs/shields"
+              },
+              "next": {
+                "title": "Spirits Route",
+                "permalink": "/docs/spirits"
+              }
+            },
+            {
+              "unversionedId": "spirits",
+              "id": "spirits",
+              "isDocsHomePage": false,
+              "title": "Spirits Route",
+              "description": "Introduction",
+              "source": "@site/docs/spirits.md",
+              "slug": "/spirits",
+              "permalink": "/docs/spirits",
+              "version": "current",
+              "sidebar_label": "Spirits",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Sorceries Route",
+                "permalink": "/docs/sorceries"
+              },
+              "next": {
+                "title": "Talismans Route",
+                "permalink": "/docs/talismans"
+              }
+            },
+            {
+              "unversionedId": "start",
+              "id": "start",
+              "isDocsHomePage": false,
+              "title": "Getting Started",
+              "description": "The Elden Ring is a cool open source API that provides information about this amazing game released by FromSoftware in 2022. In this section you will be guided with basics steps on how to properly use this API. This API is open, so it doesn't require an API key to use it. Also, please give us a star on our official github repository and feel free to post issues there.",
+              "source": "@site/docs/start.md",
+              "slug": "/",
+              "permalink": "/docs/",
+              "version": "current",
+              "sidebar_label": "Getting Started",
+              "sidebar": "someSidebar",
+              "next": {
+                "title": "Ammos Route",
+                "permalink": "/docs/ammos"
+              }
+            },
+            {
+              "unversionedId": "talismans",
+              "id": "talismans",
+              "isDocsHomePage": false,
+              "title": "Talismans Route",
+              "description": "Introduction",
+              "source": "@site/docs/talismans.md",
+              "slug": "/talismans",
+              "permalink": "/docs/talismans",
+              "version": "current",
+              "sidebar_label": "Talismans",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Spirits Route",
+                "permalink": "/docs/spirits"
+              },
+              "next": {
+                "title": "Weapons Route",
+                "permalink": "/docs/weapons"
+              }
+            },
+            {
+              "unversionedId": "weapons",
+              "id": "weapons",
+              "isDocsHomePage": false,
+              "title": "Weapons Route",
+              "description": "Introduction",
+              "source": "@site/docs/weapons.md",
+              "slug": "/weapons",
+              "permalink": "/docs/weapons",
+              "version": "current",
+              "sidebar_label": "Weapons",
+              "sidebar": "someSidebar",
+              "previous": {
+                "title": "Talismans Route",
+                "permalink": "/docs/talismans"
+              },
+              "next": {
+                "title": "GraphQL Endpoint",
+                "permalink": "/docs/graphql"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogPosts": [
+        {
+          "id": "v1-release",
+          "metadata": {
+            "permalink": "/blog/v1-release",
+            "source": "@site/blog/2022-03-18-v1-is-here.md",
+            "description": "A new release!",
+            "date": "2022-03-18T00:00:00.000Z",
+            "tags": [
+              {
+                "label": "release",
+                "permalink": "/blog/tags/release"
+              },
+              {
+                "label": "documentation",
+                "permalink": "/blog/tags/documentation"
+              },
+              {
+                "label": "api",
+                "permalink": "/blog/tags/api"
+              }
+            ],
+            "title": "Elden Ring Open Source API is here!",
+            "readingTime": 0.93,
+            "truncated": false
+          }
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "metadata": {
+            "permalink": "/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 1,
+            "previousPage": null,
+            "nextPage": null,
+            "blogDescription": "Blog"
+          },
+          "items": [
+            "v1-release"
+          ]
+        }
+      ],
+      "blogTags": {
+        "release": {
+          "name": "release",
+          "items": [
+            "v1-release"
+          ],
+          "permalink": "/blog/tags/release"
+        },
+        "documentation": {
+          "name": "documentation",
+          "items": [
+            "v1-release"
+          ],
+          "permalink": "/blog/tags/documentation"
+        },
+        "api": {
+          "name": "api",
+          "items": [
+            "v1-release"
+          ],
+          "permalink": "/blog/tags/api"
+        }
+      },
+      "blogTagsListPath": "/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  }
+}

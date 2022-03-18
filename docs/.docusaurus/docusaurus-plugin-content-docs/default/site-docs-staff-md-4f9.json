@@ -1,0 +1,21 @@
+{
+  "unversionedId": "staff",
+  "id": "staff",
+  "isDocsHomePage": false,
+  "title": "Staff Route",
+  "description": "Introduction",
+  "source": "@site/docs/staff.md",
+  "slug": "/staff",
+  "permalink": "/docs/staff",
+  "version": "current",
+  "sidebar_label": "Staff",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Games Route",
+    "permalink": "/docs/games"
+  },
+  "next": {
+    "title": "Characters Route",
+    "permalink": "/docs/characters"
+  }
+}

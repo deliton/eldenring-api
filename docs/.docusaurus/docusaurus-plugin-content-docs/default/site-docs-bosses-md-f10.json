@@ -1,0 +1,21 @@
+{
+  "unversionedId": "bosses",
+  "id": "bosses",
+  "isDocsHomePage": false,
+  "title": "Bosses Route",
+  "description": "Introduction",
+  "source": "@site/docs\\bosses.md",
+  "slug": "/bosses",
+  "permalink": "/docs/bosses",
+  "version": "current",
+  "sidebar_label": "Bosses",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Monsters Route",
+    "permalink": "/docs/monsters"
+  },
+  "next": {
+    "title": "Dungeons Route",
+    "permalink": "/docs/dungeons"
+  }
+}

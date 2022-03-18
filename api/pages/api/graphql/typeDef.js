@@ -98,6 +98,7 @@ export const typeDefs = gql`
     image: String
     description: String
     effect: String
+    type: String
   }
 
   type Location {

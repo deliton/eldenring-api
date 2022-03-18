@@ -1,0 +1,134 @@
+{
+  "version": "current",
+  "label": "Next",
+  "isLast": true,
+  "docsSidebars": {
+    "someSidebar": [
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "Info",
+        "items": [
+          {
+            "type": "link",
+            "label": "Getting Started",
+            "href": "/docs/"
+          }
+        ]
+      },
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "API",
+        "items": [
+          {
+            "type": "link",
+            "label": "Ammos",
+            "href": "/docs/ammos"
+          },
+          {
+            "type": "link",
+            "label": "Armors",
+            "href": "/docs/armors"
+          },
+          {
+            "type": "link",
+            "label": "Ashes of War",
+            "href": "/docs/ashesOfWar"
+          },
+          {
+            "type": "link",
+            "label": "Bosses",
+            "href": "/docs/bosses"
+          },
+          {
+            "type": "link",
+            "label": "Classes",
+            "href": "/docs/classes"
+          },
+          {
+            "type": "link",
+            "label": "Creatures",
+            "href": "/docs/creatures"
+          },
+          {
+            "type": "link",
+            "label": "Incantations",
+            "href": "/docs/incantations"
+          },
+          {
+            "type": "link",
+            "label": "Items",
+            "href": "/docs/items"
+          },
+          {
+            "type": "link",
+            "label": "Locations",
+            "href": "/docs/locations"
+          },
+          {
+            "type": "link",
+            "label": "NPCs",
+            "href": "/docs/npcs"
+          },
+          {
+            "type": "link",
+            "label": "Shields",
+            "href": "/docs/shields"
+          },
+          {
+            "type": "link",
+            "label": "Sorceries",
+            "href": "/docs/sorceries"
+          },
+          {
+            "type": "link",
+            "label": "Spirits",
+            "href": "/docs/spirits"
+          },
+          {
+            "type": "link",
+            "label": "Talismans",
+            "href": "/docs/talismans"
+          },
+          {
+            "type": "link",
+            "label": "Weapons",
+            "href": "/docs/weapons"
+          }
+        ]
+      },
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "GraphQL",
+        "items": [
+          {
+            "type": "link",
+            "label": "Usage",
+            "href": "/docs/graphql"
+          }
+        ]
+      }
+    ]
+  },
+  "permalinkToSidebar": {
+    "/docs/ammos": "someSidebar",
+    "/docs/armors": "someSidebar",
+    "/docs/ashesOfWar": "someSidebar",
+    "/docs/bosses": "someSidebar",
+    "/docs/classes": "someSidebar",
+    "/docs/creatures": "someSidebar",
+    "/docs/graphql": "someSidebar",
+    "/docs/incantations": "someSidebar",
+    "/docs/items": "someSidebar",
+    "/docs/locations": "someSidebar",
+    "/docs/npcs": "someSidebar",
+    "/docs/shields": "someSidebar",
+    "/docs/sorceries": "someSidebar",
+    "/docs/spirits": "someSidebar",
+    "/docs/": "someSidebar",
+    "/docs/talismans": "someSidebar",
+    "/docs/weapons": "someSidebar"
+  }
+}

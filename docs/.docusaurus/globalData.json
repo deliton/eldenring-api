@@ -1,0 +1,86 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "start",
+          "docs": [
+            {
+              "id": "ammos",
+              "path": "/docs/ammos"
+            },
+            {
+              "id": "armors",
+              "path": "/docs/armors"
+            },
+            {
+              "id": "ashesOfWar",
+              "path": "/docs/ashesOfWar"
+            },
+            {
+              "id": "bosses",
+              "path": "/docs/bosses"
+            },
+            {
+              "id": "classes",
+              "path": "/docs/classes"
+            },
+            {
+              "id": "creatures",
+              "path": "/docs/creatures"
+            },
+            {
+              "id": "graphql",
+              "path": "/docs/graphql"
+            },
+            {
+              "id": "incantations",
+              "path": "/docs/incantations"
+            },
+            {
+              "id": "items",
+              "path": "/docs/items"
+            },
+            {
+              "id": "locations",
+              "path": "/docs/locations"
+            },
+            {
+              "id": "npcs",
+              "path": "/docs/npcs"
+            },
+            {
+              "id": "shields",
+              "path": "/docs/shields"
+            },
+            {
+              "id": "sorceries",
+              "path": "/docs/sorceries"
+            },
+            {
+              "id": "spirits",
+              "path": "/docs/spirits"
+            },
+            {
+              "id": "start",
+              "path": "/docs/"
+            },
+            {
+              "id": "talismans",
+              "path": "/docs/talismans"
+            },
+            {
+              "id": "weapons",
+              "path": "/docs/weapons"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

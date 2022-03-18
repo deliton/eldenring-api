@@ -1,0 +1,21 @@
+{
+  "unversionedId": "creatures",
+  "id": "creatures",
+  "isDocsHomePage": false,
+  "title": "Creatures Route",
+  "description": "Introduction",
+  "source": "@site/docs/creatures.md",
+  "slug": "/creatures",
+  "permalink": "/docs/creatures",
+  "version": "current",
+  "sidebar_label": "Creatures",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Classes Route",
+    "permalink": "/docs/classes"
+  },
+  "next": {
+    "title": "Incantations Route",
+    "permalink": "/docs/incantations"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "permalink": "/blog/v1-release",
+  "source": "@site/blog/2022-03-18-v1-is-here.md",
+  "description": "A new release!",
+  "date": "2022-03-18T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "release",
+      "permalink": "/blog/tags/release"
+    },
+    {
+      "label": "documentation",
+      "permalink": "/blog/tags/documentation"
+    },
+    {
+      "label": "api",
+      "permalink": "/blog/tags/api"
+    }
+  ],
+  "title": "Elden Ring Open Source API is here!",
+  "readingTime": 0.93,
+  "truncated": false
+}

@@ -1,0 +1,21 @@
+{
+  "unversionedId": "dungeons",
+  "id": "dungeons",
+  "isDocsHomePage": false,
+  "title": "Dungeons Route",
+  "description": "Introduction",
+  "source": "@site/docs\\dungeons.md",
+  "slug": "/dungeons",
+  "permalink": "/docs/dungeons",
+  "version": "current",
+  "sidebar_label": "Dungeons",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Bosses Route",
+    "permalink": "/docs/bosses"
+  },
+  "next": {
+    "title": "Places Route",
+    "permalink": "/docs/places"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "unversionedId": "armors",
+  "id": "armors",
+  "isDocsHomePage": false,
+  "title": "Armors Route",
+  "description": "Introduction",
+  "source": "@site/docs/armors.md",
+  "slug": "/armors",
+  "permalink": "/docs/armors",
+  "version": "current",
+  "sidebar_label": "Armors",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Ammos Route",
+    "permalink": "/docs/ammos"
+  },
+  "next": {
+    "title": "Ashes of War Route",
+    "permalink": "/docs/ashesOfWar"
+  }
+}

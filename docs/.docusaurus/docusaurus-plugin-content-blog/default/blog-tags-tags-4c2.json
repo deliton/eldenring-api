@@ -1,0 +1,23 @@
+{
+  "release": {
+    "allTagsPath": "/blog/tags",
+    "slug": "release",
+    "name": "release",
+    "count": 1,
+    "permalink": "/blog/tags/release"
+  },
+  "documentation": {
+    "allTagsPath": "/blog/tags",
+    "slug": "documentation",
+    "name": "documentation",
+    "count": 1,
+    "permalink": "/blog/tags/documentation"
+  },
+  "api": {
+    "allTagsPath": "/blog/tags",
+    "slug": "api",
+    "name": "api",
+    "count": 1,
+    "permalink": "/blog/tags/api"
+  }
+}

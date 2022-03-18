@@ -1,0 +1,21 @@
+{
+  "unversionedId": "ammos",
+  "id": "ammos",
+  "isDocsHomePage": false,
+  "title": "Ammos Route",
+  "description": "Introduction",
+  "source": "@site/docs/ammos.md",
+  "slug": "/ammos",
+  "permalink": "/docs/ammos",
+  "version": "current",
+  "sidebar_label": "Ammos",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/docs/"
+  },
+  "next": {
+    "title": "Armors Route",
+    "permalink": "/docs/armors"
+  }
+}

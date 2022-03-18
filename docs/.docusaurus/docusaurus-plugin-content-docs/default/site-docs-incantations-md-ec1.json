@@ -1,0 +1,21 @@
+{
+  "unversionedId": "incantations",
+  "id": "incantations",
+  "isDocsHomePage": false,
+  "title": "Incantations Route",
+  "description": "Introduction",
+  "source": "@site/docs/incantations.md",
+  "slug": "/incantations",
+  "permalink": "/docs/incantations",
+  "version": "current",
+  "sidebar_label": "Incantations",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Creatures Route",
+    "permalink": "/docs/creatures"
+  },
+  "next": {
+    "title": "Items Route",
+    "permalink": "/docs/items"
+  }
+}

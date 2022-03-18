@@ -1,0 +1,21 @@
+{
+  "unversionedId": "ashesOfWar",
+  "id": "ashesOfWar",
+  "isDocsHomePage": false,
+  "title": "Ashes of War Route",
+  "description": "Introduction",
+  "source": "@site/docs/ashesOfWar.md",
+  "slug": "/ashesOfWar",
+  "permalink": "/docs/ashesOfWar",
+  "version": "current",
+  "sidebar_label": "Ashes of War",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Armors Route",
+    "permalink": "/docs/armors"
+  },
+  "next": {
+    "title": "Bosses Route",
+    "permalink": "/docs/bosses"
+  }
+}

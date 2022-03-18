@@ -1,0 +1,21 @@
+{
+  "unversionedId": "sorceries",
+  "id": "sorceries",
+  "isDocsHomePage": false,
+  "title": "Sorceries Route",
+  "description": "Introduction",
+  "source": "@site/docs/sorceries.md",
+  "slug": "/sorceries",
+  "permalink": "/docs/sorceries",
+  "version": "current",
+  "sidebar_label": "Sorceries",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Shields Route",
+    "permalink": "/docs/shields"
+  },
+  "next": {
+    "title": "Spirits Route",
+    "permalink": "/docs/spirits"
+  }
+}

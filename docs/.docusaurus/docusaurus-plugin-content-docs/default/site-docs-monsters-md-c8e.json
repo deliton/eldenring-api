@@ -1,0 +1,21 @@
+{
+  "unversionedId": "monsters",
+  "id": "monsters",
+  "isDocsHomePage": false,
+  "title": "Monsters Route",
+  "description": "Introduction",
+  "source": "@site/docs\\monsters.md",
+  "slug": "/monsters",
+  "permalink": "/docs/monsters",
+  "version": "current",
+  "sidebar_label": "Monsters",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Characters Route",
+    "permalink": "/docs/characters"
+  },
+  "next": {
+    "title": "Bosses Route",
+    "permalink": "/docs/bosses"
+  }
+}

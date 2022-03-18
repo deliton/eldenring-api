@@ -1,0 +1,21 @@
+{
+  "unversionedId": "npcs",
+  "id": "npcs",
+  "isDocsHomePage": false,
+  "title": "Npcs Route",
+  "description": "Introduction",
+  "source": "@site/docs/npcs.md",
+  "slug": "/npcs",
+  "permalink": "/docs/npcs",
+  "version": "current",
+  "sidebar_label": "NPCs",
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Locations Route",
+    "permalink": "/docs/locations"
+  },
+  "next": {
+    "title": "Shields Route",
+    "permalink": "/docs/shields"
+  }
+}

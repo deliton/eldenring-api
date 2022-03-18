@@ -1,0 +1,27 @@
+{
+  "permalink": "/blog/v1-release",
+  "source": "@site/blog\\2022-02-11-v1-is-here.md",
+  "description": "A new release!",
+  "date": "2022-02-11T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "release",
+      "permalink": "/blog/tags/release"
+    },
+    {
+      "label": "documentation",
+      "permalink": "/blog/tags/documentation"
+    },
+    {
+      "label": "api",
+      "permalink": "/blog/tags/api"
+    }
+  ],
+  "title": "A new version of Zelda API is up!",
+  "readingTime": 1.075,
+  "truncated": false,
+  "nextItem": {
+    "title": "The first release is here!",
+    "permalink": "/blog/first-release"
+  }
+}
