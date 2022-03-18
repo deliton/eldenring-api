@@ -1,6 +1,6 @@
 import Head from 'next/head'
 
-const siteTitle = "FanAPIs Template"
+const siteTitle = "Elden Ring API"
 
 function Index() {
   return (

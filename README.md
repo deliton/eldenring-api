@@ -1,22 +1,24 @@
-# FanAPIs Template
+# Elden Ring API
+
+![eldenring-opensource-logo](https://user-images.githubusercontent.com/47995046/159050853-e91e101c-6f12-453f-95fc-c8908d633b65.png)
 
 ## Description
-This repository holds the template code for FanAPIs, such as Zelda API and others that may come. This consists of a RESTful API and GraphQL API our beloved franchises.
-
-NextJS never cease to amaze me! This all started as some proof of concept, but it ended up being very fast and reliable way of delivering data, a good fit for student projects. The best thing about this template is that maintaining those APIs doesn't cost anything (unlike more reliable APIs hosted on AWS for example).
+This repository holds the code for Elden Ring API. This consists of a RESTful API and GraphQL API of our beloved FromSoft game.
 
 ## Tech Stack
 
 Deployment: Vercel
 
 Engine: NextJS
+Docs: Docusaurus v2
+Media Hosting: GitHub
 
 # Building
 In order to build this project just clone this repository and install the dependencies:
 
 ```console
-user@admin:~$ git clone https://github.com/deliton/fanapis-template.git && cd fanapis-template
-user@admin:~/fanapis-template$ npm install && npm run dev
+user@admin:~$ git clone https://github.com/deliton/eldenring-api.git && cd eldenring-api
+user@admin:~/fanapis-template$ yarn && yarn dev
 
 ```
 

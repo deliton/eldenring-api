@@ -14,7 +14,7 @@ function parseLimit(limit) {
 function parseObject(object, apiPath, objectName) {
   const root_path = process.env.API_URL
     ? process.env.API_URL
-    : "https://<project>.fanapis.com/api/";
+    : "https://eldenring.fanapis.com/api/";
   return object.map((entries) => {
     return {
       ...entries,
@@ -28,7 +28,7 @@ function parseObject(object, apiPath, objectName) {
 function parseOneObject(object, apiPath, objectName) {
   const root_path = process.env.API_URL
     ? process.env.API_URL
-    : "https://<project>.fanapis.com/api/";
+    : "https://eldenring.fanapis.com/api/";
   const entries = object[objectName].map(
     (objectId) => root_path + apiPath + objectId
   );
