@@ -1,8 +1,8 @@
 ---
-id: ashesOfWar
+id: ashesofwar
 title: Ashes of War Route
 sidebar_label: Ashes of War
-slug: /ashesOfWar
+slug: /ashesofwar
 ---
 
 ## Introduction
@@ -57,8 +57,8 @@ This route fetches a list of all ashes of war that can be encountered in Elden R
 
 | METHOD        |      URL      |   DESCRIPTION |
 | ------------- | :-----------: | -----: |
-| `GET`         | <https://eldenring.fanapis.com/api/ashesOfWar> | This route retrieves a list of all the ashes of war present in **Elden Ring**. |
-| `GET`         | <https://eldenring.fanapis.com/api/ashesOfWar/:ash_of_war_id> | This route retrieves one **Elden Ring** Ash of War using its ID. |
+| `GET`         | <https://eldenring.fanapis.com/api/ashesofwar> | This route retrieves a list of all the ashes of war present in **Elden Ring**. |
+| `GET`         | <https://eldenring.fanapis.com/api/ashesofwar/:ash_of_war_id> | This route retrieves one **Elden Ring** Ash of War using its ID. |
 
 ## Parameters
 
@@ -66,6 +66,6 @@ This route supports the following parameters:
 
 | Parameter        |      default value      | Example URL |  DESCRIPTION |
 | ------------- | :-----------: | -----: |  -----: |
-| `limit`        | 20 | <https://eldenring.fanapis.com/api/ashesOfWar?limit=100> | This parameter is used to set the maximum amount of items in the response |
-| `page`         | 0 | <https://eldenring.fanapis.com/api/ashesOfWar?limit=20&page=3> | This parameter is used no navigate between pages of results |
-| `name`         | none | <https://eldenring.fanapis.com/api/ashesOfWar?name=Ash Of War: Prelate's Charge>  | This parameter is used to search for fields by their names |
+| `limit`        | 20 | <https://eldenring.fanapis.com/api/ashesofwar?limit=100> | This parameter is used to set the maximum amount of items in the response |
+| `page`         | 0 | <https://eldenring.fanapis.com/api/ashesofwar?limit=20&page=3> | This parameter is used no navigate between pages of results |
+| `name`         | none | <https://eldenring.fanapis.com/api/ashesofwar?name=Ash%20Of%20War:%20Prelate's%20Charge>  | This parameter is used to search for fields by their names |

@@ -113,4 +113,4 @@ This route supports the following parameters:
 | ------------- | :-----------: | -----: |  -----: |
 | `limit`        | 20 | https://eldenring.fanapis.com/api/ammos?limit=100 | This parameter is used to set the maximum amount of items in the response |
 | `page`         | 0 | https://eldenring.fanapis.com/api/ammos?limit=20&page=3 | This parameter is used no navigate between pages of results |
-| `name`         | none | https://eldenring.fanapis.com/api/ammos?name=Firebone Arrow  | This parameter is used to search for fields by their names |
+| `name`         | none | https://eldenring.fanapis.com/api/ammos?name=Firebone%20Arrow  | This parameter is used to search for fields by their names |

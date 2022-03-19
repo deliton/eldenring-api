@@ -172,4 +172,4 @@ This route supports the following parameters:
 | ------------- | :-----------: | -----: |  -----: |
 | `limit`        | 20 | https://eldenring.fanapis.com/api/armors?limit=100 | This parameter is used to set the maximum amount of items in the response |
 | `page`         | 0 | https://eldenring.fanapis.com/api/armors?limit=20&page=3 | This parameter is used no navigate between pages of results |
-| `name`         | none | https://eldenring.fanapis.com/api/armors?name=All-knowing Armor  | This parameter is used to search for fields by their names |
+| `name`         | none | https://eldenring.fanapis.com/api/armors?name=All-knowing%20Armor  | This parameter is used to search for fields by their names |
