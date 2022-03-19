@@ -5,6 +5,8 @@
 ## Description
 This repository holds the code for Elden Ring API. This consists of a RESTful API and GraphQL API of our beloved FromSoft game.
 
+Get started at: https://eldenring.fanapis.com
+
 ## Tech Stack
 
 Deployment: Vercel
