@@ -1,8 +1,8 @@
 function parseLimit(limit) {
   if (limit != null) {
     var intLimit = parseInt(limit, 10);
-    if (intLimit > 50) {
-      return 50;
+    if (intLimit > 100) {
+      return 100;
     } else {
       return intLimit;
     }
