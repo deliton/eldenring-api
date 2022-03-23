@@ -11,6 +11,7 @@ export const simpleJSONGetAllHandler = async (req, res, model) => {
 
   const Model = new JSONDriver(model);
   await Model.init();
+  const totalAmountOfObjects = Model.data.length;
 
   switch (method) {
     case "GET":
@@ -28,6 +29,7 @@ export const simpleJSONGetAllHandler = async (req, res, model) => {
         res.status(200).json({
           success: true,
           count: Models.data.length,
+          total: totalAmountOfObjects,
           data: Models.data,
         });
       } catch (error) {
@@ -72,10 +74,17 @@ export const simpleGraphQLGetAllHandler = async (_, args, model) => {
   try {
     const limit = parseLimit(args.limit);
     const page = args.page || 0;
+    const search = args.search || undefined;
     delete args.limit;
     delete args.page;
     const Model = new JSONDriver(model);
     await Model.init();
+    if (args.search) {
+      delete args.search;
+      return Model.search({ name: search })
+        .skip(page * limit)
+        .limit(limit).data;
+    }
     return Model.findMany(args)
       .skip(page * limit)
       .limit(limit).data;
