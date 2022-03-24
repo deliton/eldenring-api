@@ -75,7 +75,10 @@ export class JSONDriver {
     }
     this.data = this.data.filter((entry) => {
       for (let key in fields) {
-        if (entry[key] !== undefined && entry[key].match(fields[key])) {
+        if (
+          entry[key] !== undefined &&
+          entry[key].toLowerCase().match(fields[key].toLowerCase())
+        ) {
           return true;
         }
       }
