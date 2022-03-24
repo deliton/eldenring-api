@@ -183,6 +183,7 @@ export const typeDefs = gql`
       passive: String
       page: Int = 0
       limit: Int
+      search: String
     ): [Ammo]
     getAmmo(id: String!): Ammo!
 
@@ -194,6 +195,7 @@ export const typeDefs = gql`
       weight: Int
       page: Int = 0
       limit: Int
+      search: String
     ): [Armor]
     getArmor(id: String!): Armor!
 
@@ -205,6 +207,7 @@ export const typeDefs = gql`
       skill: String
       page: Int = 0
       limit: Int
+      search: String
     ): [AshOfWar]
     getAshOfWar(id: String!): AshOfWar!
 
@@ -216,6 +219,7 @@ export const typeDefs = gql`
       healthPoints: String
       page: Int = 0
       limit: Int
+      search: String
     ): [Boss]
     getBoss(id: String!): Boss!
 
@@ -225,6 +229,7 @@ export const typeDefs = gql`
       description: String
       page: Int = 0
       limit: Int
+      search: String
     ): [Class]
     getClass(id: String!): Class!
 
@@ -235,6 +240,7 @@ export const typeDefs = gql`
       location: String
       page: Int = 0
       limit: Int
+      search: String
     ): [Creature]
     getCreature(id: String!): Creature!
 
@@ -247,6 +253,7 @@ export const typeDefs = gql`
       slots: Int
       page: Int = 0
       limit: Int
+      search: String
     ): [Incantation]
     getIncantation(id: String!): Incantation!
 
@@ -257,6 +264,7 @@ export const typeDefs = gql`
       effect: String
       page: Int = 0
       limit: Int
+      search: String
     ): [Item]
     getItem(id: String!): Item!
 
@@ -266,6 +274,7 @@ export const typeDefs = gql`
       description: String
       page: Int = 0
       limit: Int
+      search: String
     ): [Location]
     getLocation(id: String!): Location!
 
@@ -278,6 +287,7 @@ export const typeDefs = gql`
       role: String
       page: Int = 0
       limit: Int
+      search: String
     ): [Npc]
     getNpc(id: String!): Npc!
 
@@ -289,6 +299,7 @@ export const typeDefs = gql`
       weight: Int
       page: Int = 0
       limit: Int
+      search: String
     ): [Shield]
     getShield(id: String!): Shield!
 
@@ -301,6 +312,7 @@ export const typeDefs = gql`
       slots: Int
       page: Int = 0
       limit: Int
+      search: String
     ): [Sorcery]
     getSorcery(id: String!): Sorcery!
 
@@ -313,6 +325,7 @@ export const typeDefs = gql`
       effect: String
       page: Int = 0
       limit: Int
+      search: String
     ): [Spirit]
     getSpirit(id: String!): Spirit!
 
@@ -323,6 +336,7 @@ export const typeDefs = gql`
       effect: String
       page: Int = 0
       limit: Int
+      search: String
     ): [Talisman]
     getTalisman(id: String!): Talisman!
 
@@ -334,6 +348,7 @@ export const typeDefs = gql`
       weight: Int
       page: Int = 0
       limit: Int
+      search: String
     ): [Weapon]
     getWeapon(id: String!): Weapon!
   }

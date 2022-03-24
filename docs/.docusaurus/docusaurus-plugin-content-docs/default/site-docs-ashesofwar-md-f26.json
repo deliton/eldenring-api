@@ -4,7 +4,7 @@
   "isDocsHomePage": false,
   "title": "Ashes of War Route",
   "description": "Introduction",
-  "source": "@site/docs/ashes.md",
+  "source": "@site/docs/ashesofwar.md",
   "slug": "/ashes",
   "permalink": "/docs/ashes",
   "version": "current",

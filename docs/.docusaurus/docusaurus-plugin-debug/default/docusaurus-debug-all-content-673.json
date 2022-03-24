@@ -39,7 +39,7 @@
                   },
                   {
                     "type": "doc",
-                    "id": "ashesOfWar"
+                    "id": "ashes"
                   },
                   {
                     "type": "doc",
@@ -107,7 +107,7 @@
           "permalinkToSidebar": {
             "/docs/ammos": "someSidebar",
             "/docs/armors": "someSidebar",
-            "/docs/ashesOfWar": "someSidebar",
+            "/docs/ashes": "someSidebar",
             "/docs/bosses": "someSidebar",
             "/docs/classes": "someSidebar",
             "/docs/creatures": "someSidebar",
@@ -163,18 +163,18 @@
               },
               "next": {
                 "title": "Ashes of War Route",
-                "permalink": "/docs/ashesOfWar"
+                "permalink": "/docs/ashes"
               }
             },
             {
-              "unversionedId": "ashesOfWar",
-              "id": "ashesOfWar",
+              "unversionedId": "ashes",
+              "id": "ashes",
               "isDocsHomePage": false,
               "title": "Ashes of War Route",
               "description": "Introduction",
-              "source": "@site/docs/ashesOfWar.md",
-              "slug": "/ashesOfWar",
-              "permalink": "/docs/ashesOfWar",
+              "source": "@site/docs/ashesofwar.md",
+              "slug": "/ashes",
+              "permalink": "/docs/ashes",
               "version": "current",
               "sidebar_label": "Ashes of War",
               "sidebar": "someSidebar",
@@ -201,7 +201,7 @@
               "sidebar": "someSidebar",
               "previous": {
                 "title": "Ashes of War Route",
-                "permalink": "/docs/ashesOfWar"
+                "permalink": "/docs/ashes"
               },
               "next": {
                 "title": "Classes Route",
