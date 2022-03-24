@@ -4,7 +4,7 @@ module.exports = {
     API: [
       "ammos",
       "armors",
-      "ashesofwar",
+      "ashes",
       "bosses",
       "classes",
       "creatures",

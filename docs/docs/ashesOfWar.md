@@ -1,8 +1,8 @@
 ---
-id: ashesofwar
+id: ashes
 title: Ashes of War Route
 sidebar_label: Ashes of War
-slug: /ashesofwar
+slug: /ashes
 ---
 
 ## Introduction
@@ -29,7 +29,7 @@ This route fetches a list of all ashes of war that can be encountered in Elden R
   data: [{
       id: "17f699db6b0l0hzn9xsxxwtgyfky3",
       name: "Ash Of War: Prelate's Charge",
-      image: "https://eldenring.fanapis.com/images/ashesOfWar/17f699db6b0l0hzn9xsxxwtgyfky3.png",
+      image: "https://eldenring.fanapis.com/images/ashes/17f699db6b0l0hzn9xsxxwtgyfky3.png",
       description: "This Ash of War grants an armament the Flame affinity and the following skill:"
       Prelate 's Charge: Slam armament into the ground to create a surge of flames, then charge in. Hold to continue the charge."Usable on large and colossal axes and hammers.",
       affinity: "Flame",
@@ -38,7 +38,7 @@ This route fetches a list of all ashes of war that can be encountered in Elden R
     {
       id: "17f69632311l0hzna19sl4rzmmvk4",
       name: "Ash Of War: Barrage",
-      image: "https://eldenring.fanapis.com/images/ashesOfWar/17f69632311l0hzna19sl4rzmmvk4.png",
+      image: "https://eldenring.fanapis.com/images/ashes/17f69632311l0hzna19sl4rzmmvk4.png",
       description: "This Ash of War grants no affinity to an armament, but imparts the following skill:"
       Barrage: Archery skill using a bow held horizontally
         .Ready the bow,
@@ -57,8 +57,8 @@ This route fetches a list of all ashes of war that can be encountered in Elden R
 
 | METHOD        |      URL      |   DESCRIPTION |
 | ------------- | :-----------: | -----: |
-| `GET`         | <https://eldenring.fanapis.com/api/ashesofwar> | This route retrieves a list of all the ashes of war present in **Elden Ring**. |
-| `GET`         | <https://eldenring.fanapis.com/api/ashesofwar/:ash_of_war_id> | This route retrieves one **Elden Ring** Ash of War using its ID. |
+| `GET`         | <https://eldenring.fanapis.com/api/ashes> | This route retrieves a list of all the ashes of war present in **Elden Ring**. |
+| `GET`         | <https://eldenring.fanapis.com/api/ashes/:ash_of_war_id> | This route retrieves one **Elden Ring** Ash of War using its ID. |
 
 ## Parameters
 
@@ -66,6 +66,6 @@ This route supports the following parameters:
 
 | Parameter        |      default value      | Example URL |  DESCRIPTION |
 | ------------- | :-----------: | -----: |  -----: |
-| `limit`        | 20 | <https://eldenring.fanapis.com/api/ashesofwar?limit=100> | This parameter is used to set the maximum amount of items in the response |
-| `page`         | 0 | <https://eldenring.fanapis.com/api/ashesofwar?limit=20&page=3> | This parameter is used no navigate between pages of results |
-| `name`         | none | <https://eldenring.fanapis.com/api/ashesofwar?name=Ash%20Of%20War:%20Prelate's%20Charge>  | This parameter is used to search for fields by their names |
+| `limit`        | 20 | <https://eldenring.fanapis.com/api/ashes?limit=100> | This parameter is used to set the maximum amount of items in the response |
+| `page`         | 0 | <https://eldenring.fanapis.com/api/ashes?limit=20&page=3> | This parameter is used no navigate between pages of results |
+| `name`         | none | <https://eldenring.fanapis.com/api/ashes?name=Ash%20Of%20War:%20Prelate's%20Charge>  | This parameter is used to search for fields by their names |

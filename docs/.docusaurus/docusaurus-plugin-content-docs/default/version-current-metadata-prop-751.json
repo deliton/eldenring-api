@@ -34,7 +34,7 @@
           {
             "type": "link",
             "label": "Ashes of War",
-            "href": "/docs/ashesOfWar"
+            "href": "/docs/ashes"
           },
           {
             "type": "link",
@@ -115,7 +115,7 @@
   "permalinkToSidebar": {
     "/docs/ammos": "someSidebar",
     "/docs/armors": "someSidebar",
-    "/docs/ashesOfWar": "someSidebar",
+    "/docs/ashes": "someSidebar",
     "/docs/bosses": "someSidebar",
     "/docs/classes": "someSidebar",
     "/docs/creatures": "someSidebar",

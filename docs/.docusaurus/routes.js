@@ -74,7 +74,7 @@ export default [
 },
 {
   path: '/docs',
-  component: ComponentCreator('/docs','b09'),
+  component: ComponentCreator('/docs','7be'),
   
   routes: [
 {
@@ -93,8 +93,8 @@ export default [
   exact: true,
 },
 {
-  path: '/docs/ashesOfWar',
-  component: ComponentCreator('/docs/ashesOfWar','645'),
+  path: '/docs/ashes',
+  component: ComponentCreator('/docs/ashes','310'),
   exact: true,
 },
 {

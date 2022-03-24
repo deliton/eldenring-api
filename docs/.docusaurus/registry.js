@@ -19,7 +19,7 @@ export default {
   'content---docs-98-c-475': [() => import(/* webpackChunkName: 'content---docs-98-c-475' */ "@site/docs/start.md"), "@site/docs/start.md", require.resolveWeak("@site/docs/start.md")],
   'content---docs-ammos-80-b-3d2': [() => import(/* webpackChunkName: 'content---docs-ammos-80-b-3d2' */ "@site/docs/ammos.md"), "@site/docs/ammos.md", require.resolveWeak("@site/docs/ammos.md")],
   'content---docs-armors-138-8a2': [() => import(/* webpackChunkName: 'content---docs-armors-138-8a2' */ "@site/docs/armors.md"), "@site/docs/armors.md", require.resolveWeak("@site/docs/armors.md")],
-  'content---docs-ashes-of-war-703-e10': [() => import(/* webpackChunkName: 'content---docs-ashes-of-war-703-e10' */ "@site/docs/ashesOfWar.md"), "@site/docs/ashesOfWar.md", require.resolveWeak("@site/docs/ashesOfWar.md")],
+  'content---docs-ashesf-26-0e4': [() => import(/* webpackChunkName: 'content---docs-ashesf-26-0e4' */ "@site/docs/ashesofwar.md"), "@site/docs/ashesofwar.md", require.resolveWeak("@site/docs/ashesofwar.md")],
   'content---docs-bosses-1-f-9-3cd': [() => import(/* webpackChunkName: 'content---docs-bosses-1-f-9-3cd' */ "@site/docs/bosses.md"), "@site/docs/bosses.md", require.resolveWeak("@site/docs/bosses.md")],
   'content---docs-classes-6-ab-bc0': [() => import(/* webpackChunkName: 'content---docs-classes-6-ab-bc0' */ "@site/docs/classes.md"), "@site/docs/classes.md", require.resolveWeak("@site/docs/classes.md")],
   'content---docs-creatures-08-f-0e1': [() => import(/* webpackChunkName: 'content---docs-creatures-08-f-0e1' */ "@site/docs/creatures.md"), "@site/docs/creatures.md", require.resolveWeak("@site/docs/creatures.md")],
