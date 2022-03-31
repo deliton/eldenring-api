@@ -22,7 +22,7 @@ This route fetches a list of all Weapons that can be obtained in Elden Ring, and
 | attack         | `{ name: string, amount: number }` | How much damage the Weapon does when used as a weapon  |
 | defence         | `{ name: string, amount: number }` | How much damage the Weapon blocks when used to defend an attack  |
 | requiredAttributes         | `{ name: string, amount: number }` | What are the required attribute amount in order to properly use this Weapon. Example: `{ name: "Str", amount: 20 }`  |
-| scalesWith         | `{ name: string, scaling: string }` | How much the Weapon scales and with what attributes. Example: `{ name: "Str", scalling: "B" }`  |
+| scalesWith         | `{ name: string, scaling: string }` | How much the Weapon scales and with what attributes. Example: `{ name: "Str", scaling: "B" }`  |
 
 ## Sample Result
 

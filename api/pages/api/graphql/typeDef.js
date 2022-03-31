@@ -1,8 +1,8 @@
 import { gql } from "apollo-server-micro";
 
 export const typeDefs = gql`
-  type ScallingEntry {
-    scalling: String
+  type ScalingEntry {
+    scaling: String
     name: String
   }
 
@@ -125,7 +125,7 @@ export const typeDefs = gql`
     description: String
     attack: [AttributeEntry]
     defence: [AttributeEntry]
-    scalesWith: [ScallingEntry]
+    scalesWith: [ScalingEntry]
     requiredAttributes: [AttributeEntry]
     category: String
     weight: Int
@@ -168,7 +168,7 @@ export const typeDefs = gql`
     description: String
     attack: [AttributeEntry]
     defence: [AttributeEntry]
-    scalesWith: [ScallingEntry]
+    scalesWith: [ScalingEntry]
     requiredAttributes: [AttributeEntry]
     category: String
     weight: Int
