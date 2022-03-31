@@ -219,7 +219,7 @@
   {
     "id": "17f699556dcl0i2mb8hu2t8gym49k9",
     "name": "Ailing Village",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f699556dcl0i2mb8hu2t8gym49k9.png",
     "region": "Weeping Peninsula",
     "description": "A small, abandoned village nestled within a forested area north of the Castle Morne Rampart. This village is host to long-dilapidated dwellings, inhabited only by hostile Demi-humans.  "
   },
@@ -233,7 +233,7 @@
   {
     "id": "17f6966a9acl0i2mbedz4xx9r4lz4h",
     "name": "Callu Baptismal Church",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f6966a9acl0i2mbedz4xx9r4lz4h.png",
     "region": "Weeping Peninsula",
     "description": "A dilapidated church, presumably frequented by the former residents of Ailing Village. Now it lies in ruin, its congregation replaced by a family of mutant vermin feasting on the remains of  unfortunate travelers"
   },
@@ -254,7 +254,7 @@
   {
     "id": "17f698f0b5cl0i2mbvii8p3ju2s8p",
     "name": "Demi-human Forest Ruins",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f698f0b5cl0i2mbvii8p3ju2s8p.png",
     "region": "Weeping Peninsula",
     "description": "Demi-Humans congregate here to worship their queen. Defeating her will reward players with the Demi-Human Queen's Staff, which is excellent for beginner mages."
   },
@@ -289,7 +289,7 @@
   {
     "id": "17f6967f4a6l0i2mcivef17883vmx4",
     "name": "Minor Erdtree (weeping Peninsula)",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f6967f4a6l0i2mcivef17883vmx4.png",
     "region": "Weeping Peninsula",
     "description": "One of the large Erdtree's found in the Weeping Peninsula. An Erdtree Avatar charges at those who approach"
   },
@@ -317,14 +317,14 @@
   {
     "id": "17f69d80346l0i2md4i5cedghtnq25",
     "name": "Tombsward Cave",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f69d80346l0i2md4i5cedghtnq25.png",
     "region": "Weeping Peninsula",
     "description": "Hidden cave in the forest teeming with poison-filled creatures."
   },
   {
     "id": "17f69f4ffe5l0i2md88ra4eyn71p2h",
     "name": "Tombsward Ruins",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f69f4ffe5l0i2md88ra4eyn71p2h.png",
     "region": "Weeping Peninsula",
     "description": "The ruins of a former burial ground. Next to nothing remains here, yet squires still roam the dark tunnels beneath. Perhaps protecting the graves of their former noble masters.."
   },
@@ -338,8 +338,8 @@
   {
     "id": "17f69f66bd4l0i2mddees047dl1w3",
     "name": "Tower Of Return",
-    "image": null,
-    "region": "Tower of Return",
+    "image": "https://eldenring.fanapis.com/images/locations/17f69f66bd4l0i2mddees047dl1w3.png",
+    "region": "Weeping Peninsula",
     "description": "A dilapidated tower guarded by foot soldiers and mounted cavalry. Makeshift wooden platforms and ladders line the inside of the tower, allowing it to retain some function as a lookout point and a mount for ballistae"
   },
   {
@@ -359,21 +359,21 @@
   {
     "id": "17f69eea151l0i2mdvyoq9hes3awih",
     "name": "Academy Crystal Cave",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f69eea151l0i2mdvyoq9hes3awih.png",
     "region": "Liurnia of the Lakes",
     "description": "The depths of the Raya Lucaria Academy are rich in rose-tinted crystals, imbued with the natural magic of the area"
   },
   {
     "id": "17f69ca396cl0i2mdysgmasljm2zkm",
     "name": "Academy Gate Town",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f69ca396cl0i2mdysgmasljm2zkm.png",
     "region": "Liurnia of the Lakes",
     "description": "The sunken remains of the academy town"
   },
   {
     "id": "17f69810cebl0i2mdzlqf85vs5362m",
     "name": "Ainsel River Well",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f69810cebl0i2mdzlqf85vs5362m.png",
     "region": "Liurnia of the Lakes",
     "description": "A small structure housing a lift that takes you down to the Ainsel River."
   },
@@ -394,7 +394,7 @@
   {
     "id": "17f69c7e27al0i2meh9ln3g7iucc9m",
     "name": "Bellum Highway",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f69c7e27al0i2meh9ln3g7iucc9m.png",
     "region": "Liurnia of the Lakes",
     "description": "Outside the East Raya Lucaria Gate "
   },
@@ -436,21 +436,21 @@
   {
     "id": "17f698ad77al0i2mfezbdn6jgn0o9",
     "name": "Chelona's Rise",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f698ad77al0i2mfezbdn6jgn0o9.png",
     "region": "Liurnia of the Lakes",
     "description": "A tower overlooking the southern-most tip of Liurnia of the lakes"
   },
   {
     "id": "17f698e5adfl0i2mffrxjg7ruc39w",
     "name": "Church Of Inhibition",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f698e5adfl0i2mffrxjg7ruc39w.png",
     "region": "Liurnia of the Lakes",
     "description": "The remnants of an old church in the north of Liurnia, just before the Altus Plateau."
   },
   {
     "id": "17f69cce4d4l0i2mfhyp49jkapcfro",
     "name": "Cathedral Of Manus Celes",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f69cce4d4l0i2mfhyp49jkapcfro.png",
     "region": "Liurnia of the Lakes",
     "description": "A large church atop the southern plateau of Liurnia."
   },
@@ -471,7 +471,7 @@
   {
     "id": "17f69da1bd4l0i2mg2rzb8btkku3w",
     "name": "Converted Fringe Tower",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f69da1bd4l0i2mg2rzb8btkku3w.png",
     "region": "Liurnia of the Lakes",
     "description": "A tower found on the fringe in the northeastern tip of Liurnia."
   },
@@ -492,7 +492,7 @@
   {
     "id": "17f699e76bfl0i2mgmm6ms7zuiygi4",
     "name": "Deep Ainsel Well",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f699e76bfl0i2mgmm6ms7zuiygi4.png",
     "region": "Liurnia of the Lakes",
     "description": "A deep well leading to the Moonlight Altar from the underground Grand Cloister."
   },
@@ -506,7 +506,7 @@
   {
     "id": "17f69b8ac92l0i2mgtov87be1r2nqe",
     "name": "Frenzied Flame Village",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f69b8ac92l0i2mgtov87be1r2nqe.png",
     "region": "Liurnia of the Lakes",
     "description": "A village in Liurnia gripped in the madness of Three Fingers. Its denizens know nothing but the fiery frenzy burning within them"
   },
@@ -520,7 +520,7 @@
   {
     "id": "17f6999ba4dl0i2mh3xyke5xw6a3",
     "name": "Highway Lookout Tower",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f6999ba4dl0i2mh3xyke5xw6a3.png",
     "region": "Liurnia of the Lakes",
     "description": "A lone tower overlooking the Liurnia main road on the eastern landmass "
   },
@@ -555,7 +555,7 @@
   {
     "id": "17f69755ab0l0i2mhph4nhezda1u7a",
     "name": "Lunar Estate Ruins",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f69755ab0l0i2mhph4nhezda1u7a.png",
     "region": "Liurnia of the Lakes",
     "description": "The ruins of a large estate found atop the southwestern plateau of Liurnia."
   },
@@ -576,7 +576,7 @@
   {
     "id": "17f699944del0i2mi3slb26ih47ryg",
     "name": "Moonfolk Ruins",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f699944del0i2mi3slb26ih47ryg.png",
     "region": "Liurnia of the Lakes",
     "description": "Ruins found in the southwest of the Liurnia of the Lakes region "
   },
@@ -618,7 +618,7 @@
   {
     "id": "17f6960e4ffl0i2mixrjbqp5ikjrdf",
     "name": "Ringleader's Evergaol",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f6960e4ffl0i2mixrjbqp5ikjrdf.png",
     "region": "Liurnia of the Lakes",
     "description": "An evergaol where a nortorious assassin is incarcerated"
   },
@@ -674,7 +674,7 @@
   {
     "id": "17f69e1147dl0i2mk2ygww3qoin7ba",
     "name": "Temple Quarter",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f69e1147dl0i2mk2ygww3qoin7ba.png",
     "region": "Liurnia of the Lakes",
     "description": "Ruined by the breaking, the Temple Quarter is now overrun with dangerous creatures, ready to attack any who come near "
   },
@@ -716,7 +716,7 @@
   {
     "id": "17f696635c6l0i2mkuc7ifimqdqkmw",
     "name": "Caelid Catacombs",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f696635c6l0i2mkuc7ifimqdqkmw.png",
     "region": "Caelid",
     "description": "A labyrinth of Scarlet Rot-soaked floors and tunnels."
   },
@@ -786,7 +786,7 @@
   {
     "id": "17f69d11915l0i2mm7w192hcoirxvu",
     "name": "Minor Erdtree Catacombs",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f69d11915l0i2mm7w192hcoirxvu.png",
     "region": "Caelid",
     "description": "Minor Erdtree Catacombs is a Location in Elden Ring. The Minor Erdtree Catacombs is found in Caelid, beneath the Minor Erdtree. Players can reach this location by traveling east from where the region meets with Limgrave and then looking for the entrance behind the tree, in the north."
   },
@@ -800,14 +800,14 @@
   {
     "id": "17f69654a3dl0i2mmit9ec0mmxu749",
     "name": "Minor Erdtree (caelid)",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f69654a3dl0i2mmit9ec0mmxu749.png",
     "region": "Caelid",
     "description": "The Minor Erdtree of Caelid, found in the northwest near the border to Limgrave."
   },
   {
     "id": "17f69e4cd2al0i2mmjf7o5gwy7nhbg",
     "name": "Sellia Crystal Tunnel",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f69e4cd2al0i2mmjf7o5gwy7nhbg.png",
     "region": "Caelid",
     "description": "The crystal mining operation of Sellia is overseen by greedy and aggressive insectoids "
   },
@@ -821,7 +821,7 @@
   {
     "id": "17f69f5508fl0i2mmwfbgtc9rn3v1n",
     "name": "Sellia Gateway",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f69f5508fl0i2mmwfbgtc9rn3v1n.png",
     "region": "Caelid",
     "description": "The gateway leading to Sellia, Town of Socrcery"
   },
@@ -842,14 +842,14 @@
   {
     "id": "17f69ae9c57l0i2mn6m3td3uzlk5s5",
     "name": "Shack Of The Rotting",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f69ae9c57l0i2mn6m3td3uzlk5s5.png",
     "region": "Caelid",
     "description": "An old worn-down shack overlooking a long stretch of cliffs in western Caelid."
   },
   {
     "id": "17f697a0d02l0i2mnesx1dup5pg1u9",
     "name": "Street Of Sages Ruins",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f697a0d02l0i2mnesx1dup5pg1u9.png",
     "region": "Caelid",
     "description": "The sages of Caelid are no more, and their former district is now the dwelling of perfumers and their poisonous flowers "
   },
@@ -863,7 +863,7 @@
   {
     "id": "17f69625085l0i2mnshaufkjhe4gok",
     "name": "Capital Outskirts",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f69625085l0i2mnshaufkjhe4gok.png",
     "region": "Altus Pleateau",
     "description": "Capital Outskirts is a Location in Elden Ring. The Capital Outskirts sub-region lies in the Eastern area of the Altus Plateau and is the region just outside Leyndell, Royal Capital but still within the capital's outer walls. Beware of Skeletons rising from their graves and rocks flying out of the capital toward the battlegrounds when exploring the area."
   },
@@ -884,14 +884,14 @@
   {
     "id": "17f69bbcfcal0i2mo7s8f4xhwr53ms",
     "name": "East Windmill Pasture",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f69bbcfcal0i2mo7s8f4xhwr53ms.png",
     "region": "Altus Pleateau",
     "description": "East Pasture Outskirsts of Windmill Village. True to its name, it can be identified by the still-working windmill placed in the center of the pasture."
   },
   {
     "id": "17f698e4311l0i2mo8fibxu670d50f",
     "name": "Golden Lineage Evergaol",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f698e4311l0i2mo8fibxu670d50f.png",
     "region": "Altus Pleateau",
     "description": "An evergaol located on within the Altus Plateau."
   },
@@ -919,14 +919,14 @@
   {
     "id": "17f69b88577l0i2moruy4cidw6hrmb",
     "name": "Lux Ruins",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f69b88577l0i2moruy4cidw6hrmb.png",
     "region": "Altus Pleateau",
     "description": "Long forgotten ruins among golden trees, swarmed with demi-humans protecting the undergound chamber."
   },
   {
     "id": "17f697666c6l0i2mozt3d41gvlk4j8",
     "name": "Old Altus Tunnel",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f697666c6l0i2mozt3d41gvlk4j8.png",
     "region": "Altus Pleateau",
     "description": "An old mining site, still active to this day. Its tunnels echo with the grunts and groans of the commoners, tirelessly slaving away, grinding at the rich reservoir of crystals deep within"
   },
@@ -940,7 +940,7 @@
   {
     "id": "17f698984e2l0i2mpau822kzbjamiq",
     "name": "Sealed Tunnel",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f698984e2l0i2mpau822kzbjamiq.png",
     "region": "Altus Pleateau",
     "description": "Not as small or abandoned as it looks."
   },
@@ -961,14 +961,14 @@
   {
     "id": "17f69af90afl0i2mpmxqabln2xz5gc",
     "name": "Woodfolk Ruins",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f69af90afl0i2mpmxqabln2xz5gc.png",
     "region": "Altus Pleateau",
     "description": "Woodfolk Ruins, guarded by Limgrave's creatures, can be found near the Minor Erdtree within Altus Plateau."
   },
   {
     "id": "17f69b068c5l0i2mpzgw13xb7y8df",
     "name": "Corpse-stench Shack",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f69b068c5l0i2mpzgw13xb7y8df.png",
     "region": "Altus Pleateau",
     "description": "A run-down shack amidst burning corpses past the site of a recent battle."
   },
@@ -982,7 +982,7 @@
   {
     "id": "17f69d1692bl0i2mq82mmh96k9rqih",
     "name": "Craftsman's Shack",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f69d1692bl0i2mq82mmh96k9rqih.png",
     "region": "Altus Pleateau",
     "description": "A series of long-abandoned huts found directly south of the volcano"
   },
@@ -996,7 +996,7 @@
   {
     "id": "17f69a0735el0i2mqkr50k38bz166b",
     "name": "Hermit's Shack",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f69a0735el0i2mqkr50k38bz166b.png",
     "region": "Altus Pleateau",
     "description": "An abandoned shack along the western edge of Mt. Gelmir"
   },
@@ -1010,42 +1010,42 @@
   {
     "id": "17f69f41641l0i2mqtyu5zlb9bg8xc",
     "name": "Perfumer's Ruins",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f69f41641l0i2mqtyu5zlb9bg8xc.png",
     "region": "Altus Pleateau",
     "description": "A set of ruins found in Altus Plateau, far to the west and below Mt. Gelmir."
   },
   {
     "id": "17f69630438l0i2mqvzhowrb84vyy",
     "name": "Hermit Village",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f69630438l0i2mqvzhowrb84vyy.png",
     "region": "Altus Pleateau",
     "description": "A dilapidated village southeast of Mt. Gelmir. Now home to Demi-Humans."
   },
   {
     "id": "17f69a39644l0i2mr10gkkf9agp8m7",
     "name": "Sage's Cave",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f69a39644l0i2mr10gkkf9agp8m7.png",
     "region": "Altus Pleateau",
     "description": "Sage's Cave is a dark opening in the side of a mountain. Its dark depths are overrun by hostile undead, but those who brave it may find treasures beyond compare"
   },
   {
     "id": "17f69a7a523l0i2mr4q3lyuakdiubr",
     "name": "Second Church Of Marika",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f69a7a523l0i2mr4q3lyuakdiubr.png",
     "region": "Altus Pleateau",
     "description": "Second of the four Churches of Marika where players can gather a Sacred Tear for their flask."
   },
   {
     "id": "17f69c28019l0i2mrdirn1c1brqcqj",
     "name": "Unsightly Catacombs",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f69c28019l0i2mrdirn1c1brqcqj.png",
     "region": "Altus Pleateau",
     "description": "A burial grounds crawling with Misbegotten creatures found deep beneath the Perfumer's Ruins. Despite its decrepit state, the catacombs give off a trace of fragrant aromas juxtaposed by the scent of the ancient dead"
   },
   {
     "id": "17f6967952el0i2mrhy8fpgqo0f4hr",
     "name": "Seethewater Cave",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f6967952el0i2mrhy8fpgqo0f4hr.png",
     "region": "Altus Pleateau",
     "description": "A cave found along the Seethewater Ravine."
   },
@@ -1059,7 +1059,7 @@
   {
     "id": "17f69e3f410l0i2mrtcr66ff1g9p4h",
     "name": "Volcano Cave",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f69e3f410l0i2mrtcr66ff1g9p4h.png",
     "region": "Altus Pleateau",
     "description": "A cave system at the highest point of Mt. Gelmir, made into a home by a family of Demi-Humans hiding their maddened Queen."
   },
@@ -1094,7 +1094,7 @@
   {
     "id": "17f69bc1846l0i2msgjjzgo3z9kwjh",
     "name": "Deep Siofra Well",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f69bc1846l0i2msgjjzgo3z9kwjh.png",
     "region": "Dragonbarrow",
     "description": "A second lift to the Siofra River."
   },
@@ -1122,7 +1122,7 @@
   {
     "id": "17f697b13fal0i2mt2gmldy864m2zj",
     "name": "Castle Sol",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f697b13fal0i2mt2gmldy864m2zj.png",
     "region": "Mountaintops of the Giants",
     "description": "A castle found in the northeast of the Mountaintops of the Giants. Stronghold of Commander Niall and his spectral knights"
   },
@@ -1150,7 +1150,7 @@
   {
     "id": "17f698657ecl0i2mtswf7rb3f7u2l7",
     "name": "Guardians' Garrison",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f698657ecl0i2mtswf7rb3f7u2l7.png",
     "region": "Mountaintops of the Giants",
     "description": "Guardian's Garrison is staffed by Fire Priests, who zealously watch the road leading to the Giant's Forge "
   },
@@ -1185,7 +1185,7 @@
   {
     "id": "17f69efba83l0i2mv5car0cnamiotl",
     "name": "Zamor Ruins",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f69efba83l0i2mv5car0cnamiotl.png",
     "region": "Mountaintops of the Giants",
     "description": "The ancient Town of Zamor, now fallen to ruin. Its anzient order of knights still roam the snow-capped streets"
   },
@@ -1206,21 +1206,21 @@
   {
     "id": "17f6994064fl0i2mvrzl0ze8veus3",
     "name": "Heretical Rise",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f6994064fl0i2mvrzl0ze8veus3.png",
     "region": "Mountaintops of the Giants",
     "description": "The secrets of Heretical Rise are closely guarded by hidden magic, but the tower is overrun with hostile Avionette Soldiers "
   },
   {
     "id": "17f69a00a08l0i2mvsxha1qmkpwnqb",
     "name": "Hidden Path To The Haligtree",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f69a00a08l0i2mvsxha1qmkpwnqb.png",
     "region": "Mountaintops of the Giants",
     "description": "The secret passage leading to Miquella's Haligtree has been polluted by Those Who Live in Dead "
   },
   {
     "id": "17f69ea8ac4l0i2mw3htuchm8ubrxk",
     "name": "Yelough Anix Ruins",
-    "image": null,
+    "image": "https://eldenring.fanapis.com/images/locations/17f69ea8ac4l0i2mw3htuchm8ubrxk.png",
     "region": "Mountaintops of the Giants",
     "description": "A set of ruins found in the northwest of the Consecrated Snowfield"
   },
