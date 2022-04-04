@@ -2,6 +2,10 @@ import { ApolloServer } from "apollo-server-micro";
 import { typeDefs } from "./typeDef";
 import { resolvers } from "./resolvers";
 import { ApolloServerPluginLandingPageGraphQLPlayground } from "apollo-server-core";
+import microCors from "micro-cors";
+import { send } from "micro";
+
+const cors = microCors();
 
 const apolloServer = new ApolloServer({
   typeDefs,
@@ -18,9 +22,15 @@ export const config = {
 
 const startServer = apolloServer.start();
 
-export default async function handler(req, res) {
+// https://github.com/apollographql/apollo-server/blob/main/packages/apollo-server-micro/README.md#cors-example
+export default cors(async (req, res) => {
   await startServer;
-  await apolloServer.createHandler({
+  const handler = apolloServer.createHandler({
     path: "/api/graphql",
-  })(req, res);
-}
+  });
+
+  if (req.method === 'OPTIONS') {
+    return send(res, 200, 'ok');
+  }
+  return handler(req, res);
+})
