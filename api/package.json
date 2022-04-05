@@ -11,6 +11,7 @@
     "apollo-server-micro": "^3.6.2",
     "graphql": "^16.3.0",
     "micro": "^9.3.4",
+    "micro-cors": "^0.1.1",
     "next": "12",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
