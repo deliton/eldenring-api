@@ -68,7 +68,7 @@ export const typeDefs = gql`
     name: String
     image: String
     description: String
-    stats: [ClassStats]
+    stats: ClassStats
   }
 
   type Creature {
