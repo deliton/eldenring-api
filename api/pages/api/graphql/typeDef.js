@@ -49,6 +49,7 @@ export const typeDefs = gql`
     location: String
     drops: [String]
     healthPoints: String
+    region: String
   }
 
   type ClassStats {
@@ -106,6 +107,7 @@ export const typeDefs = gql`
     name: String
     image: String
     description: String
+    region: String
   }
 
   type Npc {
@@ -219,6 +221,7 @@ export const typeDefs = gql`
       healthPoints: String
       page: Int = 0
       limit: Int
+      region: String
       search: String
     ): [Boss]
     getBoss(id: String!): Boss!
@@ -274,6 +277,7 @@ export const typeDefs = gql`
       description: String
       page: Int = 0
       limit: Int
+      region: String
       search: String
     ): [Location]
     getLocation(id: String!): Location!
