@@ -88,7 +88,7 @@ This route fetches a list of all armor pieces that can be encountered in Elden R
           amount: 10
         }
       ],
-      weigth: 6.6
+      weight : 6.6
     },
     {
       id: "17f69515b49l0i0nbno079cqzlskebf",
@@ -150,7 +150,7 @@ This route fetches a list of all armor pieces that can be encountered in Elden R
           amount: 16
         }
       ],
-      weigth: 10.6
+      weight : 10.6
     }
   ]
 }

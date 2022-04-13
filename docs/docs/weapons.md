@@ -18,7 +18,7 @@ This route fetches a list of all Weapons that can be obtained in Elden Ring, and
 | image         | `string` | Image URL of the Weapon |
 | description         | `string` | Short description of the Weapon |
 | category         | `string` | What category of Weapons. Example: `Axe`, `Sword`, etc. |
-| weigth         | `number` | How much the Weapon weights when equipped |
+| weight          | `number` | How much the Weapon weights when equipped |
 | attack         | `{ name: string, amount: number }` | How much damage the Weapon does when used as a weapon  |
 | defence         | `{ name: string, amount: number }` | How much damage the Weapon blocks when used to defend an attack  |
 | requiredAttributes         | `{ name: string, amount: number }` | What are the required attribute amount in order to properly use this Weapon. Example: `{ name: "Str", amount: 20 }`  |
@@ -104,7 +104,7 @@ This route fetches a list of all Weapons that can be obtained in Elden Ring, and
       }
     ],
     category: "Axe",
-    weigth: 2.5
+    weight : 2.5
   }]
 }
 ```
