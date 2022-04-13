@@ -29,7 +29,7 @@ export const typeDefs = gql`
     category: String
     dmgNegation: [AttributeEntry]
     resistance: [AttributeEntry]
-    weight: Int
+    weight: Float
   }
 
   type AshOfWar {
@@ -128,7 +128,7 @@ export const typeDefs = gql`
     scalesWith: [ScalingEntry]
     requiredAttributes: [AttributeEntry]
     category: String
-    weight: Int
+    weight: Float
   }
 
   type Sorcery {
@@ -171,7 +171,7 @@ export const typeDefs = gql`
     scalesWith: [ScalingEntry]
     requiredAttributes: [AttributeEntry]
     category: String
-    weight: Int
+    weight: Float
   }
 
   type Query {
@@ -192,7 +192,7 @@ export const typeDefs = gql`
       name: String
       description: String
       category: String
-      weight: Int
+      weight: Float
       page: Int = 0
       limit: Int
       search: String
@@ -296,7 +296,7 @@ export const typeDefs = gql`
       name: String
       description: String
       category: String
-      weight: Int
+      weight: Float
       page: Int = 0
       limit: Int
       search: String
@@ -345,7 +345,7 @@ export const typeDefs = gql`
       name: String
       description: String
       category: String
-      weight: Int
+      weight: Float
       page: Int = 0
       limit: Int
       search: String
