@@ -18,7 +18,7 @@ This route fetches a list of all Shields that can be obtained in Elden Ring, and
 | image         | `string` | Image URL of the Shield |
 | description         | `string` | Short description of the Shield |
 | category         | `string` | What category of shield. Example: `Small Shield`, `Medium Shield`, etc. |
-| weigth         | `number` | How much the Shield weights when equipped |
+| weight          | `number` | How much the Shield weights when equipped |
 | attack         | `{ name: string, amount: number }` | How much damage the Shield does when used as a weapon  |
 | defence         | `{ name: string, amount: number }` | How much damage the Shield blocks when used as a shield  |
 | requiredAttributes         | `{ name: string, amount: number }` | What are the required attribute amount in order to properly use this shield. Example: `{ name: "Str", amount: 20 }`  |
@@ -94,7 +94,7 @@ This route fetches a list of all Shields that can be obtained in Elden Ring, and
         amount: 10
       }],
       category: "Small Shield",
-      weigth: 5
+      weight : 5
     }
   ]
 }
