@@ -22,7 +22,7 @@ This route fetches a list of all Shields that can be obtained in Elden Ring, and
 | attack         | `{ name: string, amount: number }` | How much damage the Shield does when used as a weapon  |
 | defence         | `{ name: string, amount: number }` | How much damage the Shield blocks when used as a shield  |
 | requiredAttributes         | `{ name: string, amount: number }` | What are the required attribute amount in order to properly use this shield. Example: `{ name: "Str", amount: 20 }`  |
-| scalesWith         | `{ name: string, scaling: string }` | How much the shield scales and with what attributes. Example: `{ name: "Str", scalling: "B" }`  |
+| scalesWith         | `{ name: string, scaling: string }` | How much the shield scales and with what attributes. Example: `{ name: "Str", scaling: "B" }`  |
 
 ## Sample Result
 
