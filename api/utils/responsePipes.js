@@ -1,8 +1,13 @@
 function parseLimit(limit) {
   if (limit != null) {
     var intLimit = parseInt(limit, 10);
-    if (intLimit > 100) {
-      return 100;
+    // Set upper limit to 200 to support current data set
+    // If intLimit is NaN, return 20
+    if (isNaN(intLimit)) {
+      return 20;
+    } else if (intLimit > 200) {
+      // For efficiency, if over 200, implement paging
+      return 200;
     } else {
       return intLimit;
     }
